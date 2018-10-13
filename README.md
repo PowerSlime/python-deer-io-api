@@ -21,7 +21,9 @@ Activate it. If you're on Linux type:
 source venv/bin/activate
 ```
 If Windows:
-`venv\scripts\activate`
+```
+venv\scripts\activate
+```
 
 Then install requirements.
 ```bash
