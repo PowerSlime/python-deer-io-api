@@ -46,7 +46,7 @@ The output should look like:
       "link": "http://site.url/",
       "since": 1507161600,
       "description": "shop's description"
-    }, {...}, ...
+    }, {}
   ],
   "items": [
 	{
@@ -54,7 +54,7 @@ The output should look like:
 	  "title": "product's title",
 	  "count": 1234,
 	  "price": 11.0
-	}, {...}, ...
+	}, {}
   ]
 }
 ```
