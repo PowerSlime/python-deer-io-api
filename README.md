@@ -39,23 +39,24 @@ Open your browser at `http://localhost:8080/`, and provide a query: `https://loc
 The output should look like:
 ```json
 {
-  "shops": [
-    {
-      "id": 0,
-      "title": "shop title",
-      "link": "http://site.url/",
-      "since": 1507161600,
-      "description": "shop's description"
-    }, {}
-  ],
-  "items": [
-	{
-	  "shop_id": 0,
-	  "title": "product's title",
-	  "count": 1234,
-	  "price": 11.0
-	}, {}
-  ]
+    "shops": [
+        {
+            "id": 0,
+            "title": "shop title",
+            "link": "http://site.url/",
+            "since": 1507161600,
+            "description": "shop's description"
+        }
+    ],
+
+    "items": [
+        {
+            "shop_id": 0,
+            "title": "product's title",
+            "count": 1234,
+            "price": 11.0
+        }
+    ]
 }
 ```
 
