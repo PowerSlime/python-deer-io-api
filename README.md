@@ -8,6 +8,7 @@ It parse HTML-page and returns JSON object.
 
 ## Params
 **q**: [string] the query string
+
 **outofstock**: [bool] if true returns "out of stock" items too.
 
 # 🚀Installation
