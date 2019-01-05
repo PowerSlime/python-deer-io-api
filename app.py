@@ -1,10 +1,7 @@
 import json
 from flask import Flask, request, Response
 
-if __name__ == '__main__':
-	import DeerIO
-else:
-	from . import DeerIO
+import DeerIO
 
 app = Flask(__name__)
 
