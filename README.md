@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 And... Run the server 🙂
 ```bash
-python .
+python app.py
 ```
 
 # 🤔Using
