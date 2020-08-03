@@ -9,6 +9,14 @@ idna==2.7
 itsdangerous==0.24
 Jinja2==2.10
 MarkupSafe==1.0
-requests==2.20.0
 urllib3==1.23
 Werkzeug==0.14.1
+
+lxml~=4.3.4
+pip~=19.1.1
+wheel~=0.33.4
+colorama~=0.3.7
+simplejson~=3.10.0
+setuptools~=41.0.1
+configparser~=5.0.0
+requests~=2.20.0
