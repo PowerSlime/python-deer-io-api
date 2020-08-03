@@ -10,7 +10,7 @@ itsdangerous==0.24
 Jinja2==2.10
 MarkupSafe==1.0
 urllib3==1.23
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 
 lxml~=4.3.4
 pip~=19.1.1
